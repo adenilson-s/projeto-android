@@ -104,8 +104,8 @@ nav > a:hover {
 
 }
 main /*Conteúdo principal do site*/ {
-    min-width: 100px;
-    max-width: 1500px;
+    min-width: 170px;
+    max-width: 1800px;
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
